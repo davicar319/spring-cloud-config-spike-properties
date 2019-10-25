@@ -1,2 +1,4 @@
 application:
   label: The real spring cloud spike dev.
+  spring-cloud-config-spike:
+    name: This is the overridden name in the dev file.
