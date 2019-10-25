@@ -1,0 +1,7 @@
+global:
+  test: foo
+application:
+  spring-cloud-config-spike:
+    name: spring-cloud-config-spike
+    author: Dave Carlson
+    
